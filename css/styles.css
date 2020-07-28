@@ -1,0 +1,31 @@
+
+ #hub {
+color: brown;
+font-size: 100;
+background-color: aqua;
+
+ }          
+
+table {   
+       background-color: aquamarine;
+      }    
+      li {
+           margin: 50px;
+           background-color: blueviolet;
+           padding: 20px; 
+           border: 5px solid orange; 
+      
+      }     
+      input { background-color: chartreuse;       
+              border: 5px coral;
+              margin: 8px;
+              padding: 4px; 
+       
+              
+                }
+                form-control{
+                }
+                body{
+                   background-color:olivedrab;    
+                }
+       
